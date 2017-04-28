@@ -2,15 +2,14 @@
   "name": "gulp-seajs-combo",
   "version": "1.2.3",
   "description": "seajs(CMD) Module combo pulgin for gulp",
-  "homepage": "http://github.com/chenmnkken/gulp-seajs-combo",
+  "homepage": "https://github.com/RainingBlack/seajs.git",
   "author": {
     "name": "YiguoChan",
-    "email": "chenmnkken@gmail.com",
-    "url": "http://stylechen.com/"
+    "developer": "WeiruiHao"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/chenmnkken/gulp-seajs-combo.git"
+    "url": "https://github.com/RainingBlack/seajs.git"
   },
   "main": "index.js",
   "keywords": [
