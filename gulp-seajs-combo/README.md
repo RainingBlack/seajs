@@ -17,7 +17,7 @@ var gulp = require( 'gulp' ),
     
 gulp.task( 'seajscombo', function(){
     return gulp.src( 'src/js/main.js' )
-        .pipe( seajsCombo() )
+        .pipe( seajsCombo(num) )  //if there are some loop use in your project,you can input a number (js's count of your project)
         .pipe( gulp.task('build/js') );
 }); 
 ```
